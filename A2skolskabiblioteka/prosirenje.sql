@@ -8,4 +8,4 @@ CREATE TABLE Primerak(
 ALTER TABLE Citalac
 ADD
 DatumClanarine DATE,
-CONSTRAINT CHK_DatumClanarine CHECK(DatumClanarine <= GETDATE())
+CONSTRAINT CHK_DatumClanarine CHECK(DatumClanarine >= GETDATE())

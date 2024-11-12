@@ -1,2 +1,2 @@
-# A2-SkolskaBiblioteka
-A2-SkolskaBiblioteka - Maturski ispit - desktop aplikacija 
+# A2-ŠkolskaBiblioteka
+A2-ŠkolskaBiblioteka - Maturski ispit - desktop aplikacija 
